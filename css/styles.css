@@ -1,0 +1,27 @@
+.image {
+  position: relative;
+  width: 100%;
+}
+
+h1 {
+  top: 200px;
+  left: 0;
+  width: 100%;
+  margin: 5px;
+  font: bold 37px Helvetica, Sans-Serif;
+  text-shadow: 1px 1px 1px #000,
+               3px 3px 5px blue;
+  letter-spacing: -1px;
+  color: red;
+}
+
+.top-text {
+  position: absolute;
+  top: 50px;
+}
+
+.bottom-text {
+  top: 450px;
+  position: absolute;
+  margin-left: 140px;
+}
